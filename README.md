@@ -1,2 +1,2 @@
-# openvocab-egoAR
-Opening the Vocabulary of Egocentric Actions
+# Opening the Vocabulary of Egocentric Actions
+Code coming soon !
