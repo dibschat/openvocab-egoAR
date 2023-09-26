@@ -1,2 +1,2 @@
 # Opening the Vocabulary of Egocentric Actions
-Code coming soon !
+Code and benchmark splits coming soon !
