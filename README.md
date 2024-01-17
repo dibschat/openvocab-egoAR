@@ -6,10 +6,10 @@ Dibyadip Chatterjee, Fadime Sener, Shugao Ma, Angela Yao, [Opening the Vocabular
 
 If you use the split/code/models from this repo, please cite our paper:
 ```
-@article{chatterjee2023opening,
+@inproceedings{chatterjee2023opening,
   title={Opening the Vocabulary of Egocentric Actions},
   author={Chatterjee, Dibyadip and Sener, Fadime and Ma, Shugao and Yao, Angela},
-  journal={arXiv preprint arXiv:2308.11488},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
 ```
