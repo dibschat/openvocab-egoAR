@@ -185,6 +185,21 @@ video {
   margin-top: 30px;
 }
 
+.footnote a:link {
+  text-decoration: none;
+  color: #ff2800;
+  font-weight: 600;
+}
+
+.footnote a:visited {
+  color: #ff2800;
+}
+
+.footnote a:hover {
+  color: black;
+  font-weight: 600;
+}
+
 @media (min-width: 1280px) {
   .table {
     width: 1280px;
