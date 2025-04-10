@@ -15,7 +15,6 @@ If you use the split/code/models from this repo, please cite our paper:
 ```
 
 ## News
-- **Code coming soon. Stay Tuned !**
 - Open Vocabulary Benchmark Splits (EPIC100-OV and Assembly101-OV) proposed in the paper have been released under the `/data` folder.
 
 ## License
